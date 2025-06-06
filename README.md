@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khaledul-Belal
 - 👀 I’m interested in problem solving
-- 🌱 I’m currently learning ...cse
+- 🌱 I’m currently learning ...data struc,html,css,java,c++
 
 
 
