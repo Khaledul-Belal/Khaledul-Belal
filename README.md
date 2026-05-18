@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @Khaledul-Belal
-- 👀 I’m interested in problem solving
-- 🌱 I’m currently learning ...data struc,html,css,js,React.js,java,python,c++
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=500&color=FF5733&center=true&width=600&lines=%22Welcome%20to%20my%20GitHub%20Portfolio%22" />
+</p>
 
 
 
-<!---
-Khaledul-Belal/Khaledul-Belal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+# 💫 About Me:  
+
+I am a passionate Computer Science and Engineering (CSE) student with a strong love for problem-solving. As a programming enthusiast, I have developed solid skills in C and C++ languages, which I use to tackle challenging coding problems with creativity and precision. I thrive on breaking down complex issues into manageable solutions and am dedicated to continuously enhancing my technical expertise. I am a quick learner and can adapt quickly to change, ensuring I stay ahead in fast-paced tech environments. Eager to contribute to innovative projects, I am always ready to learn, collaborate, and grow in dynamic settings.
+
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div
+  
+
+
+### 🌟 Tech & Life Emoji Grid 🚀
+
+|   Code Magic   |    Digital Life    |  Nature & Mood   |   Cosmic Vibes   |
+| :------------: | :---------------: | :-------------: | :-------------: |
+| 🧠 `think`     | 🎮 `gaming`       | 🌈 `rainbow`    | 🚀 `launch`     |
+| 💻 `terminal`  | 🎧 `playlist`     | 🌊 `ocean`      | 🌌 `nebula`     |
+| 🔍 `debug`     | 🎨 `design`       | 🌱 `grow`       | ☄️ `comet`      |
+| 🛠️ `fix`       | 🎥 `stream`       | ⚡ `energy`     | 🌠 `wish`       |
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<img width="481" height="216" alt="image" src="https://github.com/user-attachments/assets/31e600b6-bb94-46c3-8085-f9e4edbf9e3e" >
